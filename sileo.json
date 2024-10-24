@@ -1,8 +1,8 @@
 {
   "name": "DuSheng",
   "description": "自用仓库",
-  "icon": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/a8ed62665bbdca491e15b9f649b1167b6918a9a8/images/2841B0E4-B02F-40C0-B431-5BA439FC33FC.jpeg",
-  "banner": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/a8ed62665bbdca491e15b9f649b1167b6918a9a8/images/4E7DAB0F-4A54-4A47-8F0D-936E760C35A9.png",
+  "icon": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/2841B0E4-B02F-40C0-B431-5BA439FC33FC.jpeg",
+  "banner": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/4E7DAB0F-4A54-4A47-8F0D-936E760C35A9.png",
   "tintColor": "#FFC0CB",
   "sileoDepiction": true
 }
