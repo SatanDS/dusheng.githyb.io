@@ -1,0 +1,74 @@
+{
+  "minVersion": "2.0",  // Sileo 最低支持的版本号，确保你使用的功能适配这个版本及以上
+  "headerImage": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/2841B0E4-B02F-40C0-B431-5BA439FC33FC.jpeg",  // 页面的顶部横幅图片，通常用于展示软件的主题
+  "tintColor": "#FF5733",  // 页面中链接和按钮的颜色，使用 16 进制格式表示（这里是橙色）
+  
+  "tabs": [  // 定义页面中的多个标签页，如 "Details"、"Changelog"、"Screenshots"
+    {
+      "tabname": "插件描述",  // 第一个标签页名称为 "插件描述"（详情）
+      "views": [  // 标签页中的视图内容
+        {
+          "class": "DepictionHeaderView",
+          "title": "威锋去广告"  // 顶部的主标题，显示 tweak 名称
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "去尼玛的广告"  // 副标题，简要说明功能
+        },
+        {
+          "class": "DepictionSeparatorView"  // 一个分隔线，用于视觉上将不同内容分开
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "去除开屏广告以及app内弹窗广告，目前已知问题为重新刷新页面后会出现广告"  
+          // 普通文本，描述 tweak 的功能和支持的系统版本
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",  // 表格形式显示版本号
+          "text": "0.0.1"  // 软件包的当前版本
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "作者",  // 表格形式显示作者信息
+          "text": "渡生"  // 你的名字或开发者的名字
+        },
+        {
+          "class": "DepictionButtonView",  
+          "title": "不要点",  // 一个按钮，点击后跳转到支持页面
+          "action": "https://qm.qq.com/q/wZxZxe0gJq"  // 按钮的 URL
+        }
+      ]
+    },
+    
+    {
+      "tabname": "更新日志",  // 第二个标签页 "Changelog"（更新日志）
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "更新内容"  // 主标题 "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",  
+          "markdown": "* Version 1.0.0: 首发\n* Version 1.0.1: 修复了一些小bug"
+          // 使用 Markdown 语法编写的更新日志，列出每个版本的变更
+        }
+      ]
+    },
+    
+    {
+      "tabname": "预览",  // 第三个标签页 "预览"（截图）
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen1_1156.PNG",  // 第一个截图的 URL
+            "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen2_1157.PNG",  // 第二个截图的 URL
+            "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen_1158.PNG",  // 第三个截图的 URL
+            "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen_1159.PNG"   // 第四个截图的 URL
+          ]
+        }
+      ]
+    }
+  ]
+}
