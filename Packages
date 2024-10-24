@@ -1,0 +1,16 @@
+Package: com.dusheng.ggkill
+Version: 0.0.1+debug
+Architecture: iphoneos-arm64
+Maintainer: DuSheng <1371059663@qq.com>
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./com.dusheng.ggkill_0.0.1+debug_iphoneos-arm64.deb
+Size: 13492
+MD5sum: 3b3b84dc55e464a2b14836a5a51e0efc
+SHA1: 14bc46ef80495ee8aa95f8c7d92aa8bfaeb5893f
+SHA256: 91d0d0056151ab3bb217fbe3b18e13437828fb6d8586bb639fb245066c0858a8
+Section: Tweaks
+Description: 插件版本目前只能屏蔽开屏广告，弹窗正在解决
+Author: DuSheng <1371059663@qq.com>
+Name: 橘子视频全局广告弹窗屏蔽
+
