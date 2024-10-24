@@ -6,4 +6,4 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: 自用仓库
-SileoIcon: ./sileo.png
+SileoIcon: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/Sileo.png
