@@ -1,3 +1,54 @@
+Package: byg.iosios.net.wechatpurification-rootless
+Version: 4.2-7
+Architecture: iphoneos-arm64
+Maintainer: 渡生
+Installed-Size: 17133
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wcpureextension-rootless,byg.iosios.net.time
+Filename: ./微信净化_4.deb
+Size: 6270032
+MD5sum: a3118512f38d55db8205bdc2b589ea01
+SHA1: 250944cffd6db8f22faee6bfb4bb5cff0ccadaa0
+SHA256: b1420dfe88b79066374f0f7b4c11031781e2a7d24db1ffde80b1cbe07d7c061a
+Section: 微信插件
+Description: 这可能是最后一个版本了，本次更新是为了去掉红包和转语音的功能，去掉时间限制！！介意的不要更新！微信净化还原聊天本质，干净的微信给你，完美支持8.0.29及以上8.0.46以下版本，高版本微信也可以使用，但是转发朋友圈或者其他功能可能会因年久失修而失效！设置位于微信-设置，请不要屏蔽微信越狱，不然不显示插件！微信净化是多少人的信仰插件，冲！
+Author: Netskao
+Name: 微信净化-Rootless
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./PKC_rootless_0.6-1.deb
+Size: 628684
+MD5sum: 784e79871c8acafb20008995710cb6a0
+SHA1: f4fe89c2ba9bcd0257f170417f434f58d83d09bb
+SHA256: 001a222399e466d96b46efc88726c55a0ed3784800dac9a852c32d732a7ad028
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./锤子助手_2.0.1无根.deb
+Size: 9329474
+MD5sum: 4c9e39f53db5740abc1851ea14fe4130
+SHA1: 21ec3fb45a63f57300bdd42e9498d0585e6a2c2f
+SHA256: 6f7b671d1a535ba5b18beb42ec6ac187840c18d9a702a8eedaf255a07c7d755f
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手-Rootless
+
 Package: com.dusheng.ggkill
 Version: 0.0.1+debug
 Architecture: iphoneos-arm64
@@ -13,4 +64,35 @@ Section: Tweaks
 Description: 插件版本目前只能屏蔽开屏广告，弹窗正在解决
 Author: DuSheng <1371059663@qq.com>
 Name: 橘子视频全局广告弹窗屏蔽
+
+Package: com.guashen.GSHongBao
+Version: 4.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./挂神红包助手4.0-2.deb
+Size: 45278
+MD5sum: be9abd743f78c5a5ff78f778a18e0b26
+SHA1: 274fa6ed0acd1311371c6e609f529b44417ac8af
+SHA256: 4e401094f132ed413c398486019d6da507dddeabc05e02dfb08825dd9bb8775f
+Section: System
+Priority: optional
+Author: 挂神
+Name: 挂神红包助手4.0
+
+Package: com.yourepo.themepro.themepro-154-rootless
+Version: 2.8.9
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./ThemePro_2.8.9rootless.deb
+Size: 6134832
+MD5sum: 3dbe27046718776ab65c6160cd7228d3
+SHA1: f9162d661202f67fc06fba910714305b89d3b6c3
+SHA256: 07b2478171eec9b54be5b6b4c1a2b5ff5068f1bfdd168f04996e9691bbc07c58
+Section: Tweaks
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro-2.8.9-Rootless
 
