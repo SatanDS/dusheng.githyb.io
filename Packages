@@ -20,12 +20,12 @@ Version: 0.6-1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./PKC_rootless_0.6-1.deb
-Size: 628684
-MD5sum: 784e79871c8acafb20008995710cb6a0
-SHA1: f4fe89c2ba9bcd0257f170417f434f58d83d09bb
-SHA256: 001a222399e466d96b46efc88726c55a0ed3784800dac9a852c32d732a7ad028
-Section: PKC-插件
+Filename: ./pkc_0.6-1_iphoneos-arm64.deb
+Size: 628472
+MD5sum: dfd75f9474e6ccb87fd2117c0ffdd209
+SHA1: 8d463519f2b382ca451d2d97d04a71a5d27e9276
+SHA256: 90653782e50512fdb37163eba9caa7daa7d18f2f913d07ecea6dea193fbb7214
+Section: 微信插件
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
@@ -40,41 +40,42 @@ Maintainer: WeChat
 Installed-Size: 24000
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./锤子助手_2.0.1无根.deb
-Size: 9329474
-MD5sum: 4c9e39f53db5740abc1851ea14fe4130
-SHA1: 21ec3fb45a63f57300bdd42e9498d0585e6a2c2f
-SHA256: 6f7b671d1a535ba5b18beb42ec6ac187840c18d9a702a8eedaf255a07c7d755f
-Section: Tweaks
+Size: 9329660
+MD5sum: a277a29260b9a0fc2f751a776c8132f6
+SHA1: 8cab883d42679373b22ac9d1963b5f3e7403576f
+SHA256: eda84b2ac24437857c9260c3b337e118304e6c1e1392dfba49cfeefe5f4da2a7
+Section: 微信插件
 Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手-Rootless
 
-Package: com.dusheng.ggkill
-Version: 0.0.1+debug
+Package: com.dusheng.wfkillad
+Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: DuSheng <1371059663@qq.com>
-Installed-Size: 248
+Maintainer: Dusheng
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./com.dusheng.ggkill_0.0.1+debug_iphoneos-arm64.deb
-Size: 13492
-MD5sum: 3b3b84dc55e464a2b14836a5a51e0efc
-SHA1: 14bc46ef80495ee8aa95f8c7d92aa8bfaeb5893f
-SHA256: 91d0d0056151ab3bb217fbe3b18e13437828fb6d8586bb639fb245066c0858a8
-Section: Tweaks
-Description: 插件版本目前只能屏蔽开屏广告，弹窗正在解决
-Author: DuSheng <1371059663@qq.com>
-Name: 橘子视频全局广告弹窗屏蔽
+Filename: ./威峰去广告_0.0.1-rootless.deb
+Size: 3884
+MD5sum: 2dbbcf249e21bd01657f96ed3611e73c
+SHA1: eb0b720b558aed0ce5c63cd503a6bb6b2b736f29
+SHA256: 4f84dd3ce53b4cd849e10a695fa6671f83069c5e9896da3bbfc0d9fa4c6b226a
+Section: 去广告
+Description: 威峰去广告
+Author: DuSheng
+Name: 威峰去除广告
+Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/com.feng.New.WPForumClient/weifenkillAdDepiction.json
 
 Package: com.guashen.GSHongBao
 Version: 4.0-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./挂神红包助手4.0-2.deb
-Size: 45278
-MD5sum: be9abd743f78c5a5ff78f778a18e0b26
-SHA1: 274fa6ed0acd1311371c6e609f529b44417ac8af
-SHA256: 4e401094f132ed413c398486019d6da507dddeabc05e02dfb08825dd9bb8775f
-Section: System
+Size: 34008
+MD5sum: 2274634e7f3713b99164d34d68067e65
+SHA1: 39fb6df3a4ee0c2cc14278704a9fa5ae686cbf63
+SHA256: 0acad1e324cb7d8a8183df3723fb30e47705bcb57ef8c92ed644cb96f1e31676
+Section: 微信插件
 Priority: optional
 Author: 挂神
 Name: 挂神红包助手4.0
@@ -86,12 +87,12 @@ Maintainer: MustangYM <MustangYM@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: ./ThemePro_2.8.9rootless.deb
-Size: 6134832
-MD5sum: 3dbe27046718776ab65c6160cd7228d3
-SHA1: f9162d661202f67fc06fba910714305b89d3b6c3
-SHA256: 07b2478171eec9b54be5b6b4c1a2b5ff5068f1bfdd168f04996e9691bbc07c58
-Section: Tweaks
+Filename: ./theme_2.8.9_iphoneos-arm64.deb
+Size: 6131284
+MD5sum: 6a1f0603d79d43b2d194d430e7f74765
+SHA1: 6c2bd6770208532363af259a35d611d7a1f1d66b
+SHA256: 0ad67158959e066931829c4e6ac46c3001decaa5033f0f52ab5cd1d2e2a27b8a
+Section: 微信插件
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-2.8.9-Rootless
