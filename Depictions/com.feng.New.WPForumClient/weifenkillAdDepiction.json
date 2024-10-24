@@ -1,0 +1,129 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FFC0CB",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+        {
+          "text": "联系我",
+          "action": "https://qm.qq.com/q/wZxZxe0gJq",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "text": "赞助",
+          "action": "https://qm.qq.com/q/wZxZxe0gJq",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "清除威锋全局广告",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen1_1156.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen2_1157.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen_1158.PNG"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/weifen_1159.PNG"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "渡生",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "0.0.1",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "ios15-16rootlsee",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 25日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+         {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "0.0.1",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-10-25",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "正在做了",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
