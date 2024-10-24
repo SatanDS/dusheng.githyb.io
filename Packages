@@ -56,15 +56,15 @@ Maintainer: Dusheng
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./威峰去广告_0.0.1-rootless.deb
-Size: 3884
-MD5sum: 2dbbcf249e21bd01657f96ed3611e73c
-SHA1: eb0b720b558aed0ce5c63cd503a6bb6b2b736f29
-SHA256: 4f84dd3ce53b4cd849e10a695fa6671f83069c5e9896da3bbfc0d9fa4c6b226a
+Size: 3956
+MD5sum: fa63316781287b8b3cc43580697c3e00
+SHA1: b9e553515809d750ec5edb1ed5fe6643221bcc00
+SHA256: 4ac0e83b05f43af3c0f73392b998c032229f7a966046cf133b280710d5dc9049
 Section: 去广告
 Description: 威峰去广告
 Author: DuSheng
 Name: 威峰去除广告
-Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/com.feng.New.WPForumClient/weifenkillAdDepiction.json
+Sileodepiction: https://satands.github.io/dusheng.githyb.io/Depictions/com.feng.New.WPForumClient/weifenkillAdDepiction.json
 
 Package: com.guashen.GSHongBao
 Version: 4.0-2
@@ -96,4 +96,3 @@ Section: 微信插件
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-2.8.9-Rootless
-
