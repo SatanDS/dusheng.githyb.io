@@ -1,7 +1,7 @@
 {
   "class": "DepictionTabView",
   "headerImage": "",
-  "tintColor": "#FFC0CB",
+  "tintColor": "#FF69B4",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -22,7 +22,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "去除广告屏蔽越狱",
+          "markdown": "去除开屏广告，搜索栏广告，主页我的vip开通广告，屏蔽越狱检测",
           "useRawFormat": true
         },
         {
