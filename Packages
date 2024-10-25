@@ -90,13 +90,14 @@ Maintainer: DuSheng <1371059663@qq.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./deb/网易云去广告.deb
-Size: 4630
-MD5sum: 4cc0971d468f89e73638106a078d5f10
-SHA1: ffac71051e5af22e2eb4a18fe679f8f3167642bd
-SHA256: 2411a001f076d37d42d03dc812aeabb89acea68b433533b1e2fe824749816ff0
+Size: 4682
+MD5sum: 489775d2076b5fa2a5898d7ae6a012dc
+SHA1: 8d06927cf12f06ed2a2f9ddf43b287537518cb33
+SHA256: 9a4411c20955c8c3a521dbef573c151133b43514795f3f2f528df72677121647
 Section: 去广告
 Description: 屏蔽越狱检测，去除全局广告
 Author: DuSheng <1371059663@qq.com>
+Icon: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/wyy/B8139254-3559-42A6-8938-1D9EFB845D0A.jpeg
 Name: 网易云去广告屏蔽越狱
 Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/wyy/wyy.json
 
