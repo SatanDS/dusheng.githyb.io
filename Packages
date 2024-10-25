@@ -83,6 +83,24 @@ Author: DuSheng
 Name: 威峰去除广告
 Sileodepiction: https://satands.github.io/dusheng.githyb.io/Depictions/com.feng.New.WPForumClient/weifenkillAdDepiction.json
 
+Package: com.dusheng.wykillad
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: DuSheng <1371059663@qq.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/网易云去广告屏蔽越狱.deb
+Size: 4678
+MD5sum: 14f20298c9e9aa4c4c3efb6fb59ebfc8
+SHA1: 16be9814c6be14e645ebb071c63539498d5edda4
+SHA256: 055a2248020f2378a8a95d80087d487cbc18afb6487a4cc8f95be34b5a598636
+Section: 去广告
+Description: 屏蔽越狱检测，去除全局广告
+Author: DuSheng <1371059663@qq.com>
+Icon: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/网易云/134FAE50-19AE-4A24-A402-8B8D216CB00B.jpeg
+Name: 网易云去广告屏蔽越狱
+Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/网易云/网易云.json
+
 Package: com.guashen.GSHongBao
 Version: 4.0-2
 Architecture: iphoneos-arm
