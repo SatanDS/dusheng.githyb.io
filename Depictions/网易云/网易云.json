@@ -1,0 +1,121 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FF69B4",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+        {
+          "text": "联系我",
+          "action": "https://qm.qq.com/q/wZxZxe0gJq",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "text": "赞助",
+          "action": "https://qm.qq.com/q/wZxZxe0gJq",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "去开屏广告，搜索栏广告，我的页面vip开通广告小窗口移除，屏蔽越狱检测",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/网易云/525CBE05-40F4-4305-9B18-EF5D2AF3E2D6.jpeg"
+      },
+      {
+       "accessibilityText": "Screenshot",
+       "url": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/网易云/9BCC333D-35B1-4FB0-BB79-BE2D83D9EA42.jpeg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "渡生",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "0.0.1",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "ios15-16rootlsee",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 26日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+         {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "0.0.1",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-10-25",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "正在做了",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
