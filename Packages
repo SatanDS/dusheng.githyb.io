@@ -5,7 +5,7 @@ Maintainer: 渡生
 Installed-Size: 17133
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.wcpureextension-rootless,byg.iosios.net.time
-Filename: ./微信净化_4.deb
+Filename: ./deb/微信净化_4.deb
 Size: 6270032
 MD5sum: a3118512f38d55db8205bdc2b589ea01
 SHA1: 250944cffd6db8f22faee6bfb4bb5cff0ccadaa0
@@ -20,7 +20,7 @@ Version: 0.6-1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./pkc_0.6-1_iphoneos-arm64.deb
+Filename: ./deb/pkc_0.6-1_iphoneos-arm64.deb
 Size: 628472
 MD5sum: dfd75f9474e6ccb87fd2117c0ffdd209
 SHA1: 8d463519f2b382ca451d2d97d04a71a5d27e9276
@@ -39,7 +39,7 @@ Architecture: iphoneos-arm64
 Maintainer: WeChat
 Installed-Size: 24000
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./锤子助手_2.0.1无根.deb
+Filename: ./deb/锤子助手_2.0.1无根.deb
 Size: 9329660
 MD5sum: a277a29260b9a0fc2f751a776c8132f6
 SHA1: 8cab883d42679373b22ac9d1963b5f3e7403576f
@@ -55,7 +55,7 @@ Architecture: iphoneos-arm64
 Maintainer: dusheng
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./TT开启广告会员.deb
+Filename: ./deb/TT开启广告会员.deb
 Size: 3292
 MD5sum: 7d7436d8cfe335d4d4866a3ddcb5a9b6
 SHA1: 372a14191fef1dcc3889296a10295237ed549b30
@@ -72,7 +72,7 @@ Architecture: iphoneos-arm64
 Maintainer: Dusheng
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./威峰去广告_0.0.1-rootless.deb
+Filename: ./deb/威峰去广告_0.0.1-rootless.deb
 Size: 3960
 MD5sum: 0550bb7d9aa0bcb1ceb1292dddbc9b6a
 SHA1: fe934a21259bd69243a10bc93743e688f45554fc
@@ -87,7 +87,7 @@ Package: com.guashen.GSHongBao
 Version: 4.0-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./挂神红包助手4.0-2.deb
+Filename: ./deb/挂神红包助手4.0-2.deb
 Size: 34008
 MD5sum: 2274634e7f3713b99164d34d68067e65
 SHA1: 39fb6df3a4ee0c2cc14278704a9fa5ae686cbf63
@@ -104,7 +104,7 @@ Maintainer: MustangYM <MustangYM@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: ./theme_2.8.9_iphoneos-arm64.deb
+Filename: ./deb/theme_2.8.9_iphoneos-arm64.deb
 Size: 6131284
 MD5sum: 6a1f0603d79d43b2d194d430e7f74765
 SHA1: 6c2bd6770208532363af259a35d611d7a1f1d66b
