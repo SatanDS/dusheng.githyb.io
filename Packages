@@ -89,16 +89,16 @@ Architecture: iphoneos-arm64
 Maintainer: DuSheng <1371059663@qq.com>
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./deb/网易云去广告屏蔽越狱.deb
-Size: 4634
-MD5sum: fe48d958c708d6c0a1a871c08e8416be
-SHA1: 0c78a91801b1a135403b0ee183f1b234d5828f7a
-SHA256: d8eecfbbe7d3c6dfd131aef042b330da2879642a4b1a35fad9113150a93e989a
+Filename: ./deb/网易云去广告.deb
+Size: 4630
+MD5sum: 4cc0971d468f89e73638106a078d5f10
+SHA1: ffac71051e5af22e2eb4a18fe679f8f3167642bd
+SHA256: 2411a001f076d37d42d03dc812aeabb89acea68b433533b1e2fe824749816ff0
 Section: 去广告
 Description: 屏蔽越狱检测，去除全局广告
 Author: DuSheng <1371059663@qq.com>
 Name: 网易云去广告屏蔽越狱
-Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/网易云/网易云.json
+Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/wyy/wyy.json
 
 Package: com.guashen.GSHongBao
 Version: 4.0-2
