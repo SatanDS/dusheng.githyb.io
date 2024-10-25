@@ -49,6 +49,23 @@ Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手-Rootless
 
+Package: com.dusheng.talkatonenoads
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dusheng
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./TT开启广告会员.deb
+Size: 3292
+MD5sum: 7d7436d8cfe335d4d4866a3ddcb5a9b6
+SHA1: 372a14191fef1dcc3889296a10295237ed549b30
+SHA256: 0833b4b65b304c8ad31f4cfd2732b629c4f26467afe01c80a161ce55ead89898
+Section: 去广告
+Description: 开启广告订阅功能
+Author: dusheng
+Name: Talkatone开启广告会员
+Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/TT/TT.json
+
 Package: com.dusheng.wfkillad
 Version: 0.0.1
 Architecture: iphoneos-arm64
