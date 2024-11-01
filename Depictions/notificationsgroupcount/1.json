@@ -1,0 +1,118 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "",
+  "tintColor": "#FF69B4",
+  "minVersion": "0.3",
+  "icon": "https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/images/wyy/B8139254-3559-42A6-8938-1D9EFB845D0A.jpeg",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件描述",
+      "views": [
+        {
+          "text": "联系我",
+          "action": "https://qm.qq.com/q/wZxZxe0gJq",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "text": "赞助",
+          "action": "https://qm.qq.com/q/wZxZxe0gJq",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "计算锁屏上分组通知的数量！\n这个调整的最初想法来自Apple的iOS 18.1，并由我带到你最近的越狱手机上\n这是我的调整可以做的事情：\n• 将徽章添加到通知堆栈，显示组内的通知计数。\n• 允许您控制徽章的阴影效果以获得更好的可见性。\n• 提供三种不同的配色方案：\n1. 自定义颜色：选择您自己的背景和文字颜色。	\n2. 壁纸颜色：自动匹配锁屏壁纸的平均颜色。	\n3. 基于图标的颜色（默认）：适应徽章下方应用程序图标的颜色，以获得干净的外观。\n兼容性支持 iOS 15-16，适用于有根和无根设置，并包括 RTL 和 LTR 语言支持。",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://private-user-images.githubusercontent.com/56236821/381743531-020041d8-439e-4b5c-a9f9-f7f3dd292084.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA0ODA5NjIsIm5iZiI6MTczMDQ4MDY2MiwicGF0aCI6Ii81NjIzNjgyMS8zODE3NDM1MzEtMDIwMDQxZDgtNDM5ZS00YjVjLWE5ZjktZjdmM2RkMjkyMDg0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAxVDE3MDQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlOTJlOTVmZTE4ZjQyYWU5NzgzZTEyZmZmYmI2MGVkOTBhMzYyMDA1OGI2MzEwYmU0NzQ1NjgxYWVjNjY3YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Hj8Pkf94Ew7m9Qc8XiJqLuP_NjBgcOsl68oKPPNNOlw"
+      }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "渡生",
+          "title": "开发作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.2",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "ios15-16",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 1 日",
+          "title": "最后更新日期"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+         {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.0.2",
+              "fontWeight": "bold",
+              "fontSize": 17
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "2024-11-1",
+              "fontWeight": "semibold",
+              "fontSize": 17,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "全面汉化，修复概率失效问题",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
