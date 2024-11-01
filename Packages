@@ -15,6 +15,23 @@ Description: 这可能是最后一个版本了，本次更新是为了去掉红�
 Author: Netskao
 Name: 微信净化-Rootless
 
+Package: com.0xkuj.notificationsgroupcount
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 渡生
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./deb/notificationsgroupcount_1.0.2_iphoneos-arm64.deb
+Size: 28154
+MD5sum: 3ae3f86cfb7f14730a4c51649560570a
+SHA1: 3fe28c5f1e5a8192a7a171217cba3817eee1e950
+SHA256: e90b0738851ac1f898f96c20d4691b79dd268062449bc3b2f1e0d0ad6761fe14
+Section: ios18功能专区
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Name: 锁屏消息统计角标
+Sileodepiction: https://raw.githubusercontent.com/SatanDS/dusheng.githyb.io/refs/heads/main/Depictions/notificationsgroupcount/1.json
+
 Package: com.curtin.pkc.rootless
 Version: 0.6-1
 Architecture: iphoneos-arm64
