@@ -61,7 +61,7 @@
         {
           "class": "DepictionTableTextView",
           "text": "渡生",
-          "title": "开发作者"
+          "title": "维护者"
         },
         {
           "class": "DepictionTableTextView",
@@ -75,7 +75,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2024 年 11 月 1 日",
+          "text": "2024 年 11 月 2 日",
           "title": "最后更新日期"
         },
         {
