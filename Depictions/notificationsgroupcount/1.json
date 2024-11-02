@@ -112,6 +112,20 @@
           "markdown": "回调1.0.2版本修复位置概率错误"
         },
         {
+          "class": "DepictionLabelView",
+          "text": "1.0.2",
+          "fontWeight": "bold",
+          "fontSize": 17
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "2024-11-1",
+          "fontWeight": "semibold",
+          "fontSize": 17,
+          "textColor": "#696969",
+          "alignment": 2
+        },
+        {
           "class": "DepictionMarkdownView",
           "markdown": "全面汉化，修复概率失效问题",
           "useRawFormat": true
